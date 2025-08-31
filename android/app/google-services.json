@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "681987106222",
+    "project_id": "sahbhagi-663d0",
+    "storage_bucket": "sahbhagi-663d0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681987106222:android:81c1291fc5a6214c2d943f",
+        "android_client_info": {
+          "package_name": "com.institute.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGPF0nfYZriyhRixhYGai3d5Qd7gI5pv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
