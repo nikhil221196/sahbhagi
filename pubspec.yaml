@@ -1,21 +1,18 @@
-name: institute_chat
-description: Minimal chat app for an institute with attachments
-publish_to: "none"
-version: 1.0.0+1
+
+name: institute_chat_app
+description: A chat app for the institute with Firebase
 
 environment:
-  sdk: ">=3.3.0 <4.0.0"
+  sdk: ">=2.17.0 <3.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  firebase_core: ^3.4.0
-  firebase_auth: ^5.2.0
-  cloud_firestore: ^5.4.4
-  firebase_storage: ^12.2.0
-  file_picker: ^8.1.2
-  image_picker: ^1.1.2
-  uuid: ^4.4.2
+  firebase_core: ^2.4.1
+  firebase_auth: ^4.2.0
+  cloud_firestore: ^4.2.0
+  firebase_storage: ^11.0.7
 
-flutter:
-  uses-material-design: true
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
